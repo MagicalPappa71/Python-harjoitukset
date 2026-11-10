@@ -4,4 +4,4 @@ Tein moduuli 5 ja projekti 2.
 
 Olen tehnyt moduuli 6-8 tehtäviä. 
 
-Tein Javascript moduuli 1:stä tehtävät 1-3.
+Tein Javascript moduuli 1-2:sta tehtävät 1-3.
