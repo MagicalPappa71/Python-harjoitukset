@@ -4,4 +4,11 @@ Tein moduuli 5 ja projekti 2.
 
 Olen tehnyt moduuli 6-8 tehtäviä. 
 
-Tein Javascript moduuli 1-2:sta tehtävät 1-3.
+Javascript moduulien tehtävät.
+Moduuli 1-2 (https://users.metropolia.fi/~tonnyw/JS.%20Moduuli%201-2/)
+Tehdyt tehtävät:
+- Tehtävä 1: 1p
+- Tehtävä 2: 2p
+- Tehtävä 3: 3p
+- Tehtävä 5 
+https://users.metropolia.fi/~tonnyw/JS.%20Moduuli%203/
