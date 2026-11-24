@@ -1,0 +1,31 @@
+.box {
+    width: 67px;
+  padding: 54px;
+  border: 9px solid black;
+  margin: 120px;
+  background-color: lightblue;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;  
+  gap: 4px;
+}
+
+.grid-item {
+  padding: 20px;
+  background-color: lightgreen;
+  border: 16px solid #333;
+  font-size: 3rem;
+}
+
+img {
+  max-width: 54%;
+  height: auto;
+}
+
+@media (max-width: 600px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}

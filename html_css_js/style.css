@@ -1,0 +1,21 @@
+body {
+    font-size: 16;
+}
+h1{ 
+    
+} 
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 1em;
+}
+p{
+    color: blue;
+    border: 8px solid
+}
+p:hover{
+    font-weight: bold;
+}
+li::marker{
+    color:aquamarine;
+}
