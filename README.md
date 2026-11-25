@@ -10,6 +10,11 @@ Tehdyt tehtävät:
 - Tehtävä 1: 1p
 - Tehtävä 2: 2p
 - Tehtävä 3: 3p
+- Tehtävä 4: 3p
 - Tehtävä 5: 3p
+- Tehtävä 6: 3p
+- Tehtävä 7: 2p
   
-https://users.metropolia.fi/~tonnyw/JS.%20Moduuli%203/
+Moduuli 3 (https://users.metropolia.fi/~tonnyw/JS.%20Moduuli%203/)
+- Tehtävä 1 (osittain tehty): 2p
+
